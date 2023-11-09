@@ -1,4 +1,5 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/shahinalom9343)  
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 ### Hi there 👋, my name is Shahin Alom
 #### I am web developer
 ![I am web developer](https://scontent.fdac142-1.fna.fbcdn.net/v/t39.30808-6/337998741_738108007724312_8737473256125106798_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEqxFCe9KYhfH1jzwV_MMBeuLXRP0CD5ui4tdE_QIPm6LbmELfDBbSrqnugbp5L-LGDhTUwA0zRWNNpzOHE0cfd&_nc_ohc=FX-cfKSD_2EAX825UDC&_nc_ht=scontent.fdac142-1.fna&oh=00_AfAMZTcdp4tWKocbmCGXu0RYnqxKCiwqaegg6T_xxPh4uQ&oe=6552BE53)
@@ -15,7 +16,7 @@ Skills:  REACT / JS / HTML / CSS
 
 
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahinalom9343)](https://github.com/ryo-ma/github-profile-trophy)
 
