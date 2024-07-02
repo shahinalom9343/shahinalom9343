@@ -36,7 +36,7 @@ Skills: HTML / CSS(Tailwind CSS) / Javascript / React JS / Node JS /  Express JS
  </a>
  
  <a href="https://www.facebook.com/shahinalom991610" target="_blank">
-  <img alt="Facebook" src="https://www.facebook.com/shahinalom991610"  height="30px"/>
+  <img alt="Facebook" src="https://img.shields.io/badge/facebook%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=blue"  height="30px"/>
  </a> 
 </p>
 
