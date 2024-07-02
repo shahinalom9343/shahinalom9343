@@ -50,7 +50,7 @@ Skills: HTML / CSS(Tailwind CSS) / Javascript / React JS / Node JS /  Express JS
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahinalom9343)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2 align="center">Top Languages I Used</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahinalom9343)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahinalom9343)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Github Stats Section -->
 <h2 align="center">Github Stats ⚡</h2>
