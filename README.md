@@ -46,7 +46,9 @@ Skills: HTML / CSS(Tailwind CSS) / Javascript / React JS / Node JS /  Express JS
 </p>
 
 <h2 align="center">Top Languages I Use</h2>
- <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahinalom9343&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
+<div align="center">
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahinalom9343&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
+</div>
 
 <!-- Github Stats Section -->
 <h2 align="center">Github Stats ⚡</h2>
