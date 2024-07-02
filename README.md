@@ -57,8 +57,8 @@ Skills: HTML / CSS(Tailwind CSS) / Javascript / React JS / Node JS /  Express JS
 <h2 align="center">Github Stats ⚡</h2>
 <p align=center>
   <div align=center>
-      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=1hanzla100&theme=react&border=61dafb&hide_border=true" alt="shahinalom9343" />
-      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=1hanzla100&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahinalom9343&theme=react&border=61dafb&hide_border=true" alt="shahinalom9343" />
+      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=shahinalom9343&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
 </p>
 
