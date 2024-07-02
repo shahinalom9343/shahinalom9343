@@ -25,8 +25,7 @@ Skills: HTML / CSS(Tailwind CSS) / Javascript / React JS / Node JS /  Express JS
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 </p>
 
-## <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"> Let's get connected:
-
+<h2 align="center"><img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"> Let's get connected:</h2>
 <p>
   <a href="https://x.com/SAlom41758" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/>
@@ -42,14 +41,14 @@ Skills: HTML / CSS(Tailwind CSS) / Javascript / React JS / Node JS /  Express JS
  </a>
 </p>
 
-## ❤️ Badges and Trophies
+<h2 align="center">❤️ Badges and Trophies</h2>
 <p>
  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahinalom9343)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h2 align="center">Top Languages I Used</h2>
+<h2 align="center">Top Languages I Use</h2>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahinalom9343)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Github Stats Section -->
