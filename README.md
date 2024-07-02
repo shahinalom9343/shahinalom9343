@@ -102,7 +102,14 @@ Skills: HTML / CSS(Tailwind CSS) / Javascript / React JS / Node JS /  Express JS
       width="50"
     />
   </a>
-
+ <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      alt="express"
+      height="50"
+      width="50"
+    />
+  </a>
 </p>
 
 <h2 align="center"><img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"> Let's get connected:</h2>
