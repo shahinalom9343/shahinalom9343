@@ -34,12 +34,12 @@ Skills: HTML / CSS(Tailwind CSS) / Javascript / React JS / Node JS /  Express JS
  <a href="https://www.linkedin.com/in/shahin-alom-6a5402314" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
  </a>
-      <a href="https://github.com/shahinalom9343">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-      </a>
-      <a href="mailto:cuet.shahin.eee12@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-      </a>
+ <a href="https://github.com/shahinalom9343">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+ </a>
+ <a href="mailto:cuet.shahin.eee12@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+ </a>
 </p>
 
 ## ❤️ Badges and Trophies
