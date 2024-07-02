@@ -49,15 +49,13 @@ Skills: HTML / CSS(Tailwind CSS) / Javascript / React JS / Node JS /  Express JS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahinalom9343)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Top Languages I used.
+## Top Languages I used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahinalom9343)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Github Stats Section -->
 <h2 align="center">Github Stats ⚡</h2>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=shahinalom9343)
 <p align=center>
-  <div align=center>
-      <span>![GitHub streak stats](https://streak-stats.demolab.com/?user=shahinalom9343) </span>
       <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=shahinalom9343&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </div>
 </p> 
 
