@@ -9,7 +9,7 @@ Skills: HTML / CSS(Tailwind CSS) / Javascript / React JS / Node JS /  Express JS
 - 🌱 I’m currently learning Next JS 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Application development 
-- 📫 How to reach me: Github/Gmail 
+- 📫 How to reach me: <img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="20px" width="20px"> Github/Gmail 
 
 <h2 align="center">🛠️ Technologies and Tools I use:</h2>
 <p align="center">
